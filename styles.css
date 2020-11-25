@@ -23,7 +23,7 @@ h2 {
       width:auto !important;
       margin:none !important;
       padding:none !important;
-      
+
     }
 }
 a:hover{
@@ -55,7 +55,7 @@ a:hover{
   width: 75%;
   margin: auto;
   padding: 20px;
-  border-bottom: 1px solid #a88ale;
+  border-bottom: 1px solid #a88a1e;
 
 }
 .headerImg {
@@ -67,6 +67,27 @@ a:hover{
   color: #242426
   font-family: "Playfair Display", sans-serif;
   font-size: 50px;
+}
+
+.badges1{
+
+  text-align: center;
+  overflow: auto;
+  width: 5%;
+  margin: auto;
+  padding: 1.5px;
+
+}
+.badges2{
+
+  text-align: center;
+  overflow: auto;
+  width: 4.23%;
+  margin: auto;
+  padding: 1.5px;
+
+
+
 }
 
 
